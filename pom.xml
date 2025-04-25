@@ -8,7 +8,7 @@
         <version>3.4.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ma.khairy</groupId>
+    <groupId>com.eample</groupId>
     <artifactId>students-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>students-app</name>
