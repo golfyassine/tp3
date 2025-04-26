@@ -18,4 +18,5 @@ public class Patient {
     private Date dateDeNaissance;
     private boolean malade;
     private int score;  // Float instead of float to match constructor
+
 }
