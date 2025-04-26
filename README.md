@@ -1,20 +1,20 @@
 # Gestion des Patients - Application Hospitalière
 
 <div align="center">
-  <img src="images/app-screenshot.svg" alt="Application Screenshot" width="800">
+  <img src="images/app-screenshot.png" alt="Application Screenshot" width="800">
 </div>
 
 ## 📋 Description
 
-Cette application web de gestion des patients permet aux établissements hospitaliers de gérer efficacement les informations des patients. Développée avec Spring Boot, elle offre une interface intuitive pour consulter, rechercher et supprimer des dossiers patients.
+Cette application web de gestion des patients permet aux établissements hospitaliers de gérer efficacement les informations des patients. Développée avec Spring Boot, elle offre une interface intuitive pour consulter, rechercher, ajouter, modifier et supprimer des dossiers patients.
 
 ## 🛠️ Technologies Utilisées
 
 <div align="center">
-  <img src="images/spring-boot-icon.svg" alt="Spring Boot" width="50" height="50">
-  <img src="images/java-icon.svg" alt="Java" width="50" height="50">
-  <img src="images/mysql-icon.svg" alt="MySQL" width="50" height="50">
-  <img src="images/bootstrap-icon.svg" alt="Bootstrap" width="50" height="50">
+  <img src="images/spring-boot-icon.png" alt="Spring Boot" width="50" height="50">
+  <img src="images/java-icon.png" alt="Java" width="50" height="50">
+  <img src="images/mysql-icon.png" alt="MySQL" width="50" height="50">
+  <img src="images/bootstrap-icon.jpeg" alt="Bootstrap" width="50" height="50">
 </div>
 
 - **Spring Boot 3.4.4** - Framework Java pour le développement d'applications
@@ -23,27 +23,22 @@ Cette application web de gestion des patients permet aux établissements hospita
 - **Thymeleaf** - Moteur de templates pour les vues
 - **MySQL** - Base de données relationnelle
 - **Bootstrap 5.3.3** - Framework CSS pour l'interface utilisateur
-<<<<<<< HEAD
 - **Bootstrap Icons 1.11.3** - Icônes pour l'interface utilisateur
-=======
->>>>>>> 391c1a6236c222229aaac0c2b3be431ba8d55536
 - **Lombok** - Bibliothèque pour réduire le code boilerplate
 
 ## ✨ Fonctionnalités
 
 - **Affichage des patients** - Liste paginée des patients
 - **Recherche** - Filtrage des patients par nom
-<<<<<<< HEAD
 - **Ajout** - Création de nouveaux dossiers patients
 - **Modification** - Mise à jour des informations des patients
-=======
->>>>>>> 391c1a6236c222229aaac0c2b3be431ba8d55536
-- **Suppression** - Possibilité de supprimer des dossiers patients
+- **Suppression** - Suppression de dossiers patients
 - **Pagination** - Navigation facile entre les pages de résultats
 
 ## 🚀 Installation et Configuration
 
 ### Prérequis
+
 - Java 17 ou supérieur
 - Maven
 - MySQL
@@ -52,16 +47,14 @@ Cette application web de gestion des patients permet aux établissements hospita
 
 1. **Cloner le dépôt**
    ```bash
-<<<<<<< HEAD
-   git clone https://github.com/golfyassine/tp2.git
-   cd tp2
-   ```
-   Note: Vous pouvez forker ce projet sur votre propre compte GitHub si vous souhaitez contribuer.
-=======
-   git clone [URL_DU_REPO]
-   cd Tp03-hopital
-   ```
->>>>>>> 391c1a6236c222229aaac0c2b3be431ba8d55536
+   git clone https://github.com/golfyassine/tp3.git
+   cd tp3
+
+ 
+   
+
+
+
 
 2. **Configurer la base de données**
 
@@ -89,7 +82,7 @@ Cette application web de gestion des patients permet aux établissements hospita
 
    Ouvrez votre navigateur et accédez à `http://localhost:8084` (le port est configuré dans application.properties)
 =======
-   ```
+   
 
 3. **Compiler et exécuter l'application**
    ```bash
@@ -144,8 +137,8 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 ## 👥 Contributeurs
 
-- [Votre Nom] - Développeur principal
->>>>>>> 391c1a6236c222229aaac0c2b3be431ba8d55536
+- [BEKKOUCH Yassine] - Développeur principal
+
 
 ## 📊 Structure du Projet
 
